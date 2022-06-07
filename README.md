@@ -1,2 +1,2 @@
 ﻿# Calculadora em C
-## Calculadora que estou desenvolvendo durante as aulas na universidade
+## Calculadoras que estou desenvolvendo durante as aulas na universidade
